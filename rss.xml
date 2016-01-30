@@ -4,7 +4,7 @@
         <description><![CDATA[GarageBuilt.Vegas]]></description>
         <link>https://thegrid.ai/garagebuilt-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 19:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 19:43:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garagebuilt-vegas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/garagebuilt-vegas/dd61bfe8-d7a8-4371-abf0-67cd5cd45f06/index.html</link>
             <guid isPermaLink="false">dd61bfe8-d7a8-4371-abf0-67cd5cd45f06</guid>
             <pubDate>Sat, 30 Jan 2016 19:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/garagebuilt-vegas/8aa00923-f98a-41a7-936e-60c218c76315/index.html</link>
+            <guid isPermaLink="false">8aa00923-f98a-41a7-936e-60c218c76315</guid>
+            <pubDate>Sat, 30 Jan 2016 19:43:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
