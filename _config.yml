@@ -1,0 +1,28 @@
+name: GarageBuilt.Vegas
+favicon: null
+layout_spectrum: 0.32654920872300863
+typography_spectrum: 0.10293248714879155
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7579467981122434
+  lightness: 0.7671044901944697
+  saturation: 0.2440469868015498
+  rhythmicContrast: 0.4437695052474737
+purpose: []
